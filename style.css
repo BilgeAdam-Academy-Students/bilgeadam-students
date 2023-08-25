@@ -111,3 +111,13 @@ p {
 .custom-card .contact img {
   width: 40px;
 }
+
+/* YASİN AYGUL CUSTOM STYLE  */
+
+.yasin-card {
+  background: linear-gradient(#f8f7f7, #fff) ;
+}
+
+.yasin-wrapper {
+  border: 1px solid #ccc;
+}
